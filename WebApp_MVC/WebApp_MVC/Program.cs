@@ -16,6 +16,8 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
 builder.Services.AddControllersWithViews();
 // refresh se doi doi tuong
 builder.Services.AddScoped<ICategoryService,CategoryService>();
+builder.Services.AddScoped<IProductService, ProductService>();
+
 //builder.Services.AddTransient<ICategoryService, NewCategoryService>();
 //refhesh k ddooi
 //builder.Services.AddSingleton<ICategoryService, NewCategoryService>();

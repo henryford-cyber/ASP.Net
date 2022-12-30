@@ -2460,11 +2460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\WebApp_MVC\\WebApp_MVC\\WebApp_MVC.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\WebApp_MVC\\WebApp_MVC\\WebApp_MVC\\WebApp_MVC.csproj",
       "projectName": "WebApp_MVC",
-      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\WebApp_MVC\\WebApp_MVC\\WebApp_MVC.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\Desktop\\WebApp_MVC\\WebApp_MVC\\WebApp_MVC\\WebApp_MVC.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\WebApp_MVC\\WebApp_MVC\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\Desktop\\WebApp_MVC\\WebApp_MVC\\WebApp_MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

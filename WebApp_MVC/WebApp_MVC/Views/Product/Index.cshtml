@@ -1,0 +1,27 @@
+﻿
+@model ProductViewModel
+<h1> <span class="yellow">Product List</pan></h1> 
+
+<table class="container">
+    <thead>
+        <tr>
+            <th><h1>ID</h1></th>
+            <th><h1>Name</h1></th>
+            
+            <th><h1>Price</h1></th>
+            <th><h1>CategoryId</h1></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var p in Model.Products)
+        {
+            <tr>
+                <td>@p.Id</td>
+                <td>@p.Name</td>
+                
+                <td>@p.Price</td
+                <td>@p.CatedoryId</td>
+            </tr> 
+        }
+    </tbody>
+</table>

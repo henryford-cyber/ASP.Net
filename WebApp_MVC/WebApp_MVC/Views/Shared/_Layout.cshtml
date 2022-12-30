@@ -6,6 +6,7 @@
     <title>@ViewData["Title"] - WebApp_MVC</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/product.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/WebApp_MVC.styles.css" asp-append-version="true" />
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.1/css/jquery.dataTables.min.css" />
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.1/css/dataTables.bootstrap5.min.css" />
@@ -56,6 +57,9 @@
                         </li>
                         <li class="nav-item @highLightMenu("Category", "Index")">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Category" asp-action="Index"> Category </a>
+                        </li>
+                        <li class="nav-item @highLightMenu("Product", "Index")">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Product" asp-action="Index"> Product </a>
                         </li>
                         
                     </ul>
