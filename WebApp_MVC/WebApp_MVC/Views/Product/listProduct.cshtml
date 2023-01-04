@@ -1,0 +1,51 @@
+﻿@model ProductViewModel
+<table class="display container">
+    <thead>
+        <tr>
+            <th><h1>ID</h1></th>
+            <th><h1>Image</h1></th>
+            <th><h1>Name</h1></th>
+            <th><h1>Description</h1></th>
+            <th><h1>Price</h1></th>
+            <th><h1>Category</h1></th>
+            <th><h1>Action</h1></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model.Products)
+        {
+            <tr>
+                <td>@p.Id</td>
+                <td><img src="@p.Image" style="height:150px" class=""  /></td>
+                <td>@p.Name</td>
+                <td>@p.Description</td>
+                <td>@p.Price</td>
+                <td>@p.CategoryName</td>
+                <td><a href="" class="btn btn-primary">Update</a><button type="button" data-bs-toggle="modal" data-bs-target="#ModalDelete" class="btn btn-danger">Delete</button></td>
+            </tr>
+        }
+    </tbody>
+</table>
+ 
+<form method="post" asp-action="Delete" asp-controller="Product">
+    <div class="modal fade" id="ModalDelete" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="exampleModalLabel">Thông báo</h1> 
+                </div>
+                <div class="modal-body">
+                     <h1>
+                        Bạn có chắc là muốn xóa san phẩm này không ?
+                     </h1>
+                     
+                </div>
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary">Xóa</button>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Hủy</button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</form>

@@ -30,7 +30,7 @@ namespace WebApp_MVC.Controllers
 			model.CategoryResponse = _categoryService.Get(id);
             return View(model);
 		}
-		[HttpPost]
+		           [HttpPost]
         public IActionResult Delete(CategoryViewModel model)
 		{
            // var service = new CategoryService();

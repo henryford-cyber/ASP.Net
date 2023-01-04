@@ -10,6 +10,8 @@
     <link rel="stylesheet" href="~/WebApp_MVC.styles.css" asp-append-version="true" />
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.1/css/jquery.dataTables.min.css" />
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.1/css/dataTables.bootstrap5.min.css" />
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+    
 </head>
 <body>
      @{
@@ -39,22 +41,7 @@
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-black" asp-area="" asp-controller="Wellcome" asp-action="Index">Wellcome</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-black" asp-area="" asp-controller="Wellcome" asp-action="W" asp-route-id="10" asp-route-a="11" asp-route-b="12" asp-route-c="10">W</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-black" asp-area="" asp-controller="Wellcome" asp-action="Form">Form</a>
-                        </li>
-                        <li class="nav-item @highLightMenu("Home", "List")">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Wellcome" asp-action="List"> List </a>
-                        </li>
+                        </li> 
                         <li class="nav-item @highLightMenu("Category", "Index")">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Category" asp-action="Index"> Category </a>
                         </li>
@@ -85,7 +72,7 @@
     <script src="~/js/site.js" asp-append-version="true"></script>
     <script src="~/js/style.js" asp-append-version="true"></script>
     <script src="https://cdn.datatables.net/1.13.1/js/jquery.dataTables.min.js"></script>
-    
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
     <script>
        $(document).ready(function () {
     $('.display').DataTable();
