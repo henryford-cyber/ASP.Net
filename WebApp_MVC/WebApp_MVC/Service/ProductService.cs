@@ -27,7 +27,22 @@ namespace WebApp_MVC.Service
             }).ToList();
             return rs;
         }
-        [HttpPost]
+        public ProductResponse Get(int id)
+        {
+            var rs = _db.Products.Where(e => e.Id == id).Select(e => new ProductResponse
+            {
+                Id = e.Id,
+                Name = e.Name,
+                Description = e.Description,
+                Price = e.Price,
+                Image = e.Image,
+                DateCreated = e.DateCreate,
+                CategoryId = e.CategoryId,
+                CategoryName = e.Category.Name
+            }).FirstOrDefault();
+            return rs;
+        }
+         
         public void Create(ProductViewModel viewModel)
         {
             var product = new Product
@@ -55,9 +70,26 @@ namespace WebApp_MVC.Service
 
        
 
-        public void Update(ProductViewModel viewModel)
+        
+
+        public string Update(ProductRequest product)
         {
-            throw new NotImplementedException();
+            var obj = _db.Products.Where(e => e.Id == product.Id).FirstOrDefault();
+            if (obj != null)
+            {
+                obj.Name = product.Name;
+                obj.Description = product.Description;
+                obj.Price = product.Price;
+                obj.DateCreate = DateTime.Now;
+                obj.CategoryId = product.CategoryId;
+                obj.Image = product.Image;
+                _db.SaveChanges();
+                return string.Empty;
+            }
+            else
+            {
+                return "Khoong tim thay !!";
+            }
         }
     }
 }

@@ -1,10 +1,10 @@
 ﻿
 @model ProductViewModel
-<h1> <span class="yellow">Product List</pan></h1> 
+<h1> <span class="blue">Product List</pan></h1> 
 <!--LIST-->
 <partial name="listProduct" ></partial>
 <!--LIST-->
-<button type="button" data-bs-toggle="modal" data-bs-target="#ModalAdd" class="btn btn-outline-primary">Add product</button>
+
 <form method="post" asp-action="Create" asp-controller="Product">
     <div class="modal fade" id="ModalAdd" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog">

@@ -25,9 +25,9 @@ namespace WebApp_MVC.Controllers
             return View(model);
         }
         [HttpPost] 
-        public IActionResult Delete(ProductViewModel model)
+        public IActionResult Delete(int id)
         {
-            _productService.Delete(model.ProductRequest.Id);
+            _productService.Delete(id);
             var rs = _productService.GetList();
             return RedirectToAction("Index");
         }
@@ -37,9 +37,26 @@ namespace WebApp_MVC.Controllers
            _productService.Create(viewModal);
             return RedirectToAction("Index");
         }
-        public IActionResult Update()
+        [HttpGet]
+        public IActionResult Update(int id) 
         {
-            return View();
+            var model = new ProductViewModel();
+            model.ProductResponse = _productService.Get(id);
+            return View(model);
+        }
+        [HttpPost]
+        public IActionResult Update(ProductViewModel viewmodel)
+        {
+            var rs = _productService.Update(viewmodel.ProductRequest);
+            if (string.IsNullOrEmpty(rs))
+            {
+                return RedirectToAction("Index");
+            }
+            else
+            { 
+                return View();
+            }
+            return View(viewmodel);
         }
          
     }

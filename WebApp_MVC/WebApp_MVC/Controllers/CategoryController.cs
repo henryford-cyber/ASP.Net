@@ -76,9 +76,8 @@ namespace WebApp_MVC.Controllers
                 return RedirectToAction("Index");   
             }
             else
-            {
-               // model.CategoryResponse= _categoryService.Get(model.CategoryResponse.Id); 
-               // ViewBag.message = rs;
+            { 
+              
                 return View();
             }
             return View(model);
