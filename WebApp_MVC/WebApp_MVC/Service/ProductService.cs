@@ -20,28 +20,14 @@ namespace WebApp_MVC.Service
                 Name = e.Name,
                 Description = e.Description,
                 Price = e.Price,
-                Image=e.Image,
+                ImageURL=e.Image,
                 DateCreated = e.DateCreate,
                 CategoryId = e.CategoryId,
                 CategoryName =e.Category.Name
             }).ToList();
             return rs;
         }
-        public ProductResponse Get(int id)
-        {
-            var rs = _db.Products.Where(e => e.Id == id).Select(e => new ProductResponse
-            {
-                Id = e.Id,
-                Name = e.Name,
-                Description = e.Description,
-                Price = e.Price,
-                Image = e.Image,
-                DateCreated = e.DateCreate,
-                CategoryId = e.CategoryId,
-                CategoryName = e.Category.Name
-            }).FirstOrDefault();
-            return rs;
-        }
+       
          
         public void Create(ProductViewModel viewModel)
         {
@@ -50,7 +36,7 @@ namespace WebApp_MVC.Service
                 Name = viewModel.ProductRequest.Name,
                 Description = viewModel.ProductRequest.Description,
                 Price = viewModel.ProductRequest.Price,
-                Image = viewModel.ProductRequest.Image, 
+                Image = viewModel.ProductRequest.ImageURL, 
                 CategoryId = viewModel.ProductRequest.CategoryId,
                 DateCreate = DateTime.Now,
             };
@@ -72,24 +58,23 @@ namespace WebApp_MVC.Service
 
         
 
-        public string Update(ProductRequest product)
+        public void Update(ProductViewModel viewModel)
         {
-            var obj = _db.Products.Where(e => e.Id == product.Id).FirstOrDefault();
+            var obj = _db.Products.Where(e => e.Id == viewModel.ProductRequest.Id).FirstOrDefault();
             if (obj != null)
             {
-                obj.Name = product.Name;
-                obj.Description = product.Description;
-                obj.Price = product.Price;
+                obj.Name = viewModel.ProductRequest.Name;
+                obj.Description = viewModel.ProductRequest.Description;
+                obj.Price = viewModel.ProductRequest.Price;
                 obj.DateCreate = DateTime.Now;
-                obj.CategoryId = product.CategoryId;
-                obj.Image = product.Image;
+                obj.CategoryId = viewModel.ProductRequest.CategoryId;
+                obj.Image = viewModel.ProductRequest.ImageURL;
                 _db.SaveChanges();
-                return string.Empty;
+                 
             }
-            else
-            {
-                return "Khoong tim thay !!";
-            }
+            
         }
+
+        
     }
 }

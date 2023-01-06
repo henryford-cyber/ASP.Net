@@ -4,10 +4,9 @@ namespace WebApp_MVC.Service
 {
     public interface IProductService
     {
-        List<ProductResponse> GetList();
-        ProductResponse Get(int id);
+        List<ProductResponse> GetList(); 
         void Create(ProductViewModel viewModel);
-        string Update(ProductRequest product);
+        void Update(ProductViewModel viewModel);
         void Delete(int id);
         
     }
