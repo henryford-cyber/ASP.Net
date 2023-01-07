@@ -53,20 +53,20 @@ namespace WebApp_MVC.Controllers
         }
         
         [HttpPost]
-        public IActionResult Update(ProductViewModel viewmodel)
+        public IActionResult Update(ProductViewModel viewModal)
         {
-            if (viewmodel.ProductRequest.Image != null)
+            if (viewModal.ProductRequest.Image != null)
             {
                 var fileName = Guid.NewGuid().ToString() + ".png";
                 var path = Path.Combine(_whostEnvironment.WebRootPath, "image", fileName);
-                var stream = System.IO.File.Create(path);
-                viewmodel.ProductRequest.Image.CopyTo(stream);
+                var stream= System.IO.File.Create(path);
+                viewModal.ProductRequest.Image.CopyTo(stream);
                 stream.Close();
-                viewmodel.ProductRequest.ImageURL = Path.Combine("image", fileName);
+                viewModal.ProductRequest.ImageURL = Path.Combine("image", fileName);
             }
-            _productService.Update(viewmodel);
-            
-                return RedirectToAction("Index");
+            _productService.Update(viewModal);
+           
+            return RedirectToAction("Index");
             
         }
          

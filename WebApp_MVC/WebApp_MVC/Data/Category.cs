@@ -11,8 +11,7 @@ namespace WebApp_MVC.Data
 
 		[Required] 
 		[StringLength(50)]
-        //độ dài tối đa là 50 kí tự và khong dc phep null
-
+        //độ dài tối đa là 50 kí tự và khong dc phep null 
         public string Name { get; set; }
 		public virtual List<Product>Products { get; set; }
 	}

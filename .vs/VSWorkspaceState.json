@@ -3,8 +3,10 @@
     "",
     "\\WebApp_MVC",
     "\\WebApp_MVC\\WebApp_MVC",
-    "\\WebApp_MVC\\WebApp_MVC\\Controllers"
+    "\\WebApp_MVC\\WebApp_MVC\\Controllers",
+    "\\WebApp_MVC\\WebApp_MVC\\Views",
+    "\\WebApp_MVC\\WebApp_MVC\\Views\\Product"
   ],
-  "SelectedNode": "\\WebApp_MVC\\WebApp_MVC\\Controllers\\ProductController.cs",
+  "SelectedNode": "\\WebApp_MVC\\WebApp_MVC\\Views\\Product\\listProduct.cshtml",
   "PreviewInSolutionExplorer": false
 }

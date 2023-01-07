@@ -42,8 +42,7 @@ namespace WebApp_MVC.Service
             };
             _db.Products.Add(product);
             _db.SaveChanges();
-        }
-
+        } 
         public void Delete(int id)
         {
             var rs = _db.Products.Where(e => e.Id == id).FirstOrDefault();
@@ -52,11 +51,7 @@ namespace WebApp_MVC.Service
                 _db.Products.Remove(rs);
                 _db.SaveChanges();
             }
-        }
-
-       
-
-        
+        }  
 
         public void Update(ProductViewModel viewModel)
         {
