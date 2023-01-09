@@ -69,6 +69,13 @@ namespace WebApp_MVC.Controllers
             return RedirectToAction("Index");
             
         }
+        public IActionResult LoadProduct(int id ){
+        var model= new ProductViewModel();
+            model.Categories = _categoryService.GetList();
+            model.Products = _productService.GetListByCategoryId(id);
+
+            return PartialView("listProduct", model);
+        }
          
     }
 }

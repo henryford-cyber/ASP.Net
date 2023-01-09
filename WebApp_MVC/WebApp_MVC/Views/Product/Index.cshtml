@@ -1,8 +1,19 @@
 ﻿
 @model ProductViewModel
 <h1> <span class="blue">Product List</pan></h1> 
+    <lable for="listCategory"  class="form-lable text-info">
+            Danh mục sản phẩm
+        </lable>
+        <select class="form-select" style="width:200px" id="listCategory">
+    @foreach (var category in Model.Categories)
+    {
+                    <option value="@category.Id">@category.Name</option>
+    }
+        </select>
 <!--LIST-->
-<partial name="listProduct" ></partial>
+<div id="result">
+    <partial name="listProduct" ></partial>
+</div>
 <!--LIST-->
 
 <form method="post" asp-action="Create" asp-controller="Product" enctype="multipart/form-data">

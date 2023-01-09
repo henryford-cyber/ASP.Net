@@ -69,6 +69,21 @@ namespace WebApp_MVC.Service
             }
             
         }
+        public List<ProductResponse>GetListByCategoryId (int id)
+        {
+            var rs = _db.Products.Where(e => e.CategoryId == id).Select(e => new ProductResponse
+            {
+                Id= e.Id,
+                Name=e.Name,
+                Description=e.Description,
+                Price=e.Price,
+                DateCreated=DateTime.Now,
+                CategoryId= e.CategoryId,
+                CategoryName=e.Category.Name,
+                ImageURL=e.Image,
+            }).ToList();
+            return rs;
+        }
 
         
     }

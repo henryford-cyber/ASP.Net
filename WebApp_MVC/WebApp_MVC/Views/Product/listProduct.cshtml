@@ -9,6 +9,7 @@
             <th><h1>Description</h1></th>
             <th><h1>Price</h1></th>
             <th><h1>Category</h1></th>
+            <th><h1>DateCreated</h1></th>
             <th><h1>Action</h1></th>
         </tr>
     </thead>
@@ -22,6 +23,7 @@
                 <td>@p.Description</td>
                 <td>@p.Price</td>
                 <td>@p.CategoryName</td>
+                <td>@p.DateCreated</td>
                 <td>
                     <button type="button" data-bs-toggle="modal" data-bs-target="#ModalUpdate_@p.Id" class="btn btn-primary">Update</button>
                     <button type="button" data-bs-toggle="modal" data-bs-target="#modalDelete_@p.Id" class="btn btn-danger">Delete</button>
