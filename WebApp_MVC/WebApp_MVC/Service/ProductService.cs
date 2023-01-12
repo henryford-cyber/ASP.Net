@@ -56,14 +56,18 @@ namespace WebApp_MVC.Service
         public void Update(ProductViewModel viewModel)
         {
             var obj = _db.Products.Where(e => e.Id == viewModel.ProductRequest.Id).FirstOrDefault();
-            if (obj != null)
+			if (viewModel.ProductRequest.ImageURL != null)
+			{
+                obj.Image = viewModel.ProductRequest.ImageURL;
+
+			}
+			if (obj != null)
             {
                 obj.Name = viewModel.ProductRequest.Name;
                 obj.Description = viewModel.ProductRequest.Description;
                 obj.Price = viewModel.ProductRequest.Price;
                 obj.DateCreate = DateTime.Now;
-                obj.CategoryId = viewModel.ProductRequest.CategoryId;
-                obj.Image = viewModel.ProductRequest.ImageURL;
+                obj.CategoryId = viewModel.ProductRequest.CategoryId; 
                 _db.SaveChanges();
                  
             }

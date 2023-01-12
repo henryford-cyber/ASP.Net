@@ -1,411 +1,427 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApp_MVC.bundle.scp.css",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApp_MVC.bundle.scp.css",
       "PackagePath": "staticwebassets\\WebApp_MVC.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\css\\product.css",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\css\\product.css",
       "PackagePath": "staticwebassets\\css\\product.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\05641652-c9e9-4c87-b49a-50a99f9119e5.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\05641652-c9e9-4c87-b49a-50a99f9119e5.png",
       "PackagePath": "staticwebassets\\image\\05641652-c9e9-4c87-b49a-50a99f9119e5.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\0a81f4d5-20f4-4b1e-9101-0937205c423f.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\0a81f4d5-20f4-4b1e-9101-0937205c423f.png",
       "PackagePath": "staticwebassets\\image\\0a81f4d5-20f4-4b1e-9101-0937205c423f.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\0db0b311-81e3-4a9c-a2da-fa91ef8662ce.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\0db0b311-81e3-4a9c-a2da-fa91ef8662ce.png",
       "PackagePath": "staticwebassets\\image\\0db0b311-81e3-4a9c-a2da-fa91ef8662ce.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\0efcd00b-72ab-4449-91c6-dbd6b56743e9.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\0efcd00b-72ab-4449-91c6-dbd6b56743e9.png",
       "PackagePath": "staticwebassets\\image\\0efcd00b-72ab-4449-91c6-dbd6b56743e9.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\1b55679f-d970-4d5b-b478-39f757cf5e38.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\1b55679f-d970-4d5b-b478-39f757cf5e38.png",
       "PackagePath": "staticwebassets\\image\\1b55679f-d970-4d5b-b478-39f757cf5e38.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\221ef7af-0924-4634-9f44-77e28d9f42b9.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\221ef7af-0924-4634-9f44-77e28d9f42b9.png",
       "PackagePath": "staticwebassets\\image\\221ef7af-0924-4634-9f44-77e28d9f42b9.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\2960e0d9-57a1-400d-b599-05d0af1d68d8.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\2960e0d9-57a1-400d-b599-05d0af1d68d8.png",
       "PackagePath": "staticwebassets\\image\\2960e0d9-57a1-400d-b599-05d0af1d68d8.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\2abf5875-9626-4680-91a8-b7b6816142ee.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\2abf5875-9626-4680-91a8-b7b6816142ee.png",
       "PackagePath": "staticwebassets\\image\\2abf5875-9626-4680-91a8-b7b6816142ee.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\2c6bd7e3-5114-4706-89e3-f95d676921c7.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\2c6bd7e3-5114-4706-89e3-f95d676921c7.png",
       "PackagePath": "staticwebassets\\image\\2c6bd7e3-5114-4706-89e3-f95d676921c7.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\35216830-7cad-43c1-a42a-8fc9fa0e5f04.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\33a9d41e-af23-4126-92af-ab78f89bb0c9.png",
+      "PackagePath": "staticwebassets\\image\\33a9d41e-af23-4126-92af-ab78f89bb0c9.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\35216830-7cad-43c1-a42a-8fc9fa0e5f04.png",
       "PackagePath": "staticwebassets\\image\\35216830-7cad-43c1-a42a-8fc9fa0e5f04.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\4490b497-50aa-48a0-bc55-e917b68d771e.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\4490b497-50aa-48a0-bc55-e917b68d771e.png",
       "PackagePath": "staticwebassets\\image\\4490b497-50aa-48a0-bc55-e917b68d771e.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\480ccb6a-6436-4faa-9fc1-ea820ff7a856.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\480ccb6a-6436-4faa-9fc1-ea820ff7a856.png",
       "PackagePath": "staticwebassets\\image\\480ccb6a-6436-4faa-9fc1-ea820ff7a856.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\58a4b7f4-98c2-4a9f-9a0b-392cb7086924.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\48ead790-689e-44d4-8bb0-64c7d263b94c.png",
+      "PackagePath": "staticwebassets\\image\\48ead790-689e-44d4-8bb0-64c7d263b94c.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\58a4b7f4-98c2-4a9f-9a0b-392cb7086924.png",
       "PackagePath": "staticwebassets\\image\\58a4b7f4-98c2-4a9f-9a0b-392cb7086924.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\5ef33aa6-da8e-426f-b9c5-5090566f6662.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\5ef33aa6-da8e-426f-b9c5-5090566f6662.png",
       "PackagePath": "staticwebassets\\image\\5ef33aa6-da8e-426f-b9c5-5090566f6662.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\63c310bd-1adf-4e4a-b749-b2ef3858cabc.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\63c310bd-1adf-4e4a-b749-b2ef3858cabc.png",
       "PackagePath": "staticwebassets\\image\\63c310bd-1adf-4e4a-b749-b2ef3858cabc.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\64611d0d-e0a1-4e4b-ad85-431b3a7cd36d.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\64611d0d-e0a1-4e4b-ad85-431b3a7cd36d.png",
       "PackagePath": "staticwebassets\\image\\64611d0d-e0a1-4e4b-ad85-431b3a7cd36d.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\698e57be-cab5-4b6c-888e-0595b09f0f16.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\698e57be-cab5-4b6c-888e-0595b09f0f16.png",
       "PackagePath": "staticwebassets\\image\\698e57be-cab5-4b6c-888e-0595b09f0f16.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\6c5a23ed-559a-4f5d-ae56-c912fda42eb3.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\6c5a23ed-559a-4f5d-ae56-c912fda42eb3.png",
       "PackagePath": "staticwebassets\\image\\6c5a23ed-559a-4f5d-ae56-c912fda42eb3.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\6d2abfff-f4ef-4413-a354-98614cb8816b.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\6d2abfff-f4ef-4413-a354-98614cb8816b.png",
       "PackagePath": "staticwebassets\\image\\6d2abfff-f4ef-4413-a354-98614cb8816b.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\760b0603-bee5-46dd-ab16-27f51abb7f45.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\750dae84-7e29-4535-9a43-2ba03ce9ab18.png",
+      "PackagePath": "staticwebassets\\image\\750dae84-7e29-4535-9a43-2ba03ce9ab18.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\760b0603-bee5-46dd-ab16-27f51abb7f45.png",
       "PackagePath": "staticwebassets\\image\\760b0603-bee5-46dd-ab16-27f51abb7f45.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\78f80b54-1609-4b77-8257-7651c669673d.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\78f80b54-1609-4b77-8257-7651c669673d.png",
       "PackagePath": "staticwebassets\\image\\78f80b54-1609-4b77-8257-7651c669673d.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\7bde10d7-784d-4c49-ab2b-9b3f56884cc7.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\7bde10d7-784d-4c49-ab2b-9b3f56884cc7.png",
       "PackagePath": "staticwebassets\\image\\7bde10d7-784d-4c49-ab2b-9b3f56884cc7.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\88b93b63-4c2b-4e88-a393-fb841f861b76.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\88b93b63-4c2b-4e88-a393-fb841f861b76.png",
       "PackagePath": "staticwebassets\\image\\88b93b63-4c2b-4e88-a393-fb841f861b76.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\9cb84d4f-59f6-4603-8355-066d6a232128.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\9cb84d4f-59f6-4603-8355-066d6a232128.png",
       "PackagePath": "staticwebassets\\image\\9cb84d4f-59f6-4603-8355-066d6a232128.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\9f9cc341-35b2-48a4-8ea2-c173d61a3a25.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\9f9cc341-35b2-48a4-8ea2-c173d61a3a25.png",
       "PackagePath": "staticwebassets\\image\\9f9cc341-35b2-48a4-8ea2-c173d61a3a25.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\ab5a12e8-bf42-4b7b-b2f9-f365f04bf712.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\ab5a12e8-bf42-4b7b-b2f9-f365f04bf712.png",
       "PackagePath": "staticwebassets\\image\\ab5a12e8-bf42-4b7b-b2f9-f365f04bf712.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\ad9d5b7c-6db4-4873-831b-a14535417a75.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\ad9d5b7c-6db4-4873-831b-a14535417a75.png",
       "PackagePath": "staticwebassets\\image\\ad9d5b7c-6db4-4873-831b-a14535417a75.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\ba4ea0a1-32b0-485a-844a-866db6be633c.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\ba4ea0a1-32b0-485a-844a-866db6be633c.png",
       "PackagePath": "staticwebassets\\image\\ba4ea0a1-32b0-485a-844a-866db6be633c.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\c17b4676-219b-4099-9790-36aa3e747daf.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\c17b4676-219b-4099-9790-36aa3e747daf.png",
       "PackagePath": "staticwebassets\\image\\c17b4676-219b-4099-9790-36aa3e747daf.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\c7a62952-96b2-421d-9886-e6ea353ac2fe.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\c7a62952-96b2-421d-9886-e6ea353ac2fe.png",
       "PackagePath": "staticwebassets\\image\\c7a62952-96b2-421d-9886-e6ea353ac2fe.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\cd345ad9-dec1-40ea-bfda-27efa000ba1f.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\cd345ad9-dec1-40ea-bfda-27efa000ba1f.png",
       "PackagePath": "staticwebassets\\image\\cd345ad9-dec1-40ea-bfda-27efa000ba1f.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\d06516f5-80d2-4eee-8888-d048bb3e35aa.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\d06516f5-80d2-4eee-8888-d048bb3e35aa.png",
       "PackagePath": "staticwebassets\\image\\d06516f5-80d2-4eee-8888-d048bb3e35aa.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\daf3658b-2dc6-4590-8154-cffc87fcb98c.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\daf3658b-2dc6-4590-8154-cffc87fcb98c.png",
       "PackagePath": "staticwebassets\\image\\daf3658b-2dc6-4590-8154-cffc87fcb98c.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\e0efbe1d-5bc6-4992-b98e-a27a9edaac61.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\e0efbe1d-5bc6-4992-b98e-a27a9edaac61.png",
       "PackagePath": "staticwebassets\\image\\e0efbe1d-5bc6-4992-b98e-a27a9edaac61.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\e85d8783-df5e-4131-b285-12788bed05ae.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\e85d8783-df5e-4131-b285-12788bed05ae.png",
       "PackagePath": "staticwebassets\\image\\e85d8783-df5e-4131-b285-12788bed05ae.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\ef8f0220-39c4-4745-9254-66f07d6cc453.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\ef8f0220-39c4-4745-9254-66f07d6cc453.png",
       "PackagePath": "staticwebassets\\image\\ef8f0220-39c4-4745-9254-66f07d6cc453.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\f343073c-8cb3-4c14-8d4e-32c40adeacb8.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\f343073c-8cb3-4c14-8d4e-32c40adeacb8.png",
       "PackagePath": "staticwebassets\\image\\f343073c-8cb3-4c14-8d4e-32c40adeacb8.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\f60ebe01-544e-42ac-91fe-53a9621317cc.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\f60ebe01-544e-42ac-91fe-53a9621317cc.png",
       "PackagePath": "staticwebassets\\image\\f60ebe01-544e-42ac-91fe-53a9621317cc.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\fa362c41-baa1-4bcf-8a29-0e6d36138ed2.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\f9a17fc2-575b-40c7-b415-51f67b42c00a.png",
+      "PackagePath": "staticwebassets\\image\\f9a17fc2-575b-40c7-b415-51f67b42c00a.png"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\fa362c41-baa1-4bcf-8a29-0e6d36138ed2.png",
       "PackagePath": "staticwebassets\\image\\fa362c41-baa1-4bcf-8a29-0e6d36138ed2.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\faa64e5f-7312-48c2-9341-07ed60c0b510.png",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\image\\faa64e5f-7312-48c2-9341-07ed60c0b510.png",
       "PackagePath": "staticwebassets\\image\\faa64e5f-7312-48c2-9341-07ed60c0b510.png"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\js\\style.js",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\js\\style.js",
       "PackagePath": "staticwebassets\\js\\style.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Administrator\\Desktop\\GitHub\\ASP.Net\\WebApp_MVC\\WebApp_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
