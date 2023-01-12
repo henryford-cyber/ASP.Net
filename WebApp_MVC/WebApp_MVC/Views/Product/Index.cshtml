@@ -1,63 +1,61 @@
-﻿
-@model ProductViewModel
-<h1> <span class="blue">Product List</pan></h1> 
-    <lable for="listCategory"  class="form-lable text-info">
-            Danh mục sản phẩm
-        </lable>
-        <select class="form-select" style="width:200px" id="listCategory">
+﻿@model ProductViewModel
+<h1> <span class="blue">Product List</span></h1>
+<lable for="listCategory" class="form-lable text-info">
+    Danh mục sản phẩm
+</lable>
+<select class="form-select" style="width:200px" id="listCategory">
     @foreach (var category in Model.Categories)
     {
-                    <option value="@category.Id">@category.Name</option>
+        <option value="@category.Id">@category.Name</option>
     }
-        </select>
+</select>
 <!--LIST-->
 <div id="result">
-    <partial name="listProduct" ></partial>
+    <partial name="listProduct"></partial>
 </div>
 <!--LIST-->
 
 <form method="post" asp-action="Create" asp-controller="Product" enctype="multipart/form-data">
     <div class="modal fade" id="ModalAdd" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">   
+        <div class="modal-dialog">
+            <div class="modal-content">
                 <div class="modal-header">
                     <h1 class="modal-title fs-5" id="exampleModalLabel">Thông báo</h1>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
-                   <div class="form-group">
+                    <div class="form-group">
                         <label class="form-label" for="name">TÊN SẢN PHẨM</label>
-                        <input class="form-control" type="text" id="name"   asp-for="ProductRequest.Name" required />
-                   </div>
+                        <input class="form-control" type="text" id="name" asp-for="ProductRequest.Name" required />
+                    </div>
                     <div class="form-group">
                         <label class="form-label" for="price">GIÁ</label>
-                        <input class="form-control" type="number" id="price"   asp-for="ProductRequest.Price" />
+                        <input class="form-control" type="number" id="price" asp-for="ProductRequest.Price" />
                     </div>
                     <div class="form-group">
                         <label class="form-label" for="description">MÔ TẢ</label>
-                        <textarea class="form-control" type="text" id="description"  asp-for="ProductRequest.Description"></textarea>
+                        <textarea class="form-control" type="text" id="description" asp-for="ProductRequest.Description"></textarea>
                     </div>
-                    <div class="form-group"> 
+                    <div class="form-group">
                         <label class="form-label" for="description">HÌNH ẢNH</label>
-                        <input class="form-control" type="file" accept="image/*" id="image" asp-for="ProductRequest.Image"/>
+                        <input class="form-control" type="file" accept="image/*" id="image" asp-for="ProductRequest.Image" />
                     </div>
                     <div class="form-group">
                         <label class="form-label">LOẠI SẢN PHẨM</label>
-                        <select class="form-select"  asp-for="ProductRequest.CategoryId">
+                        <select class="form-select" asp-for="ProductRequest.CategoryId">
                             @foreach (var cat in Model.Categories)
                             {
                                 <option value="@cat.Id">@cat.Name</option>
                             }
                         </select>
                     </div>
-                </div>   
+                </div>
                 <div class="modal-footer">
                     <button type="submit" class="btn btn-primary">Tạo mới</button>
                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Hủy</button>
                 </div>
-             
+
+            </div>
         </div>
     </div>
-</div>
 </form>
- 
